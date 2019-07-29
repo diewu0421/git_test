@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d08398f0-ae44-4603-967a-9a01fb878604" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,51 +24,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22222.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/env.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1111111111.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module/1.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -73,16 +36,52 @@
         <entry file="file://$PROJECT_DIR$/2.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.txt">
+        <entry file="file://$PROJECT_DIR$/3.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="110">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1111111111.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/env.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -93,21 +92,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="migrate" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/module/1.txt" />
-        <option value="$PROJECT_DIR$/1.txt" />
-        <option value="$PROJECT_DIR$/2.txt" />
-        <option value="$PROJECT_DIR$/3.txt" />
-        <option value="$PROJECT_DIR$/1111111111.txt" />
         <option value="$PROJECT_DIR$/22222.txt" />
-        <option value="$PROJECT_DIR$/env.txt" />
         <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/env.txt" />
+        <option value="$PROJECT_DIR$/3.txt" />
+        <option value="$PROJECT_DIR$/2.txt" />
+        <option value="$PROJECT_DIR$/1.txt" />
       </list>
     </option>
   </component>
@@ -185,10 +182,19 @@
       <option name="presentableId" value="Default" />
       <updated>1562678030156</updated>
     </task>
+    <task id="LOCAL-00001" summary="解决冲突">
+      <created>1564403397956</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564403397956</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1116" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17907228" />
@@ -199,7 +205,7 @@
       <window_info id="DB Browser" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3298969" />
+      <window_info anchor="bottom" id="Version Control" order="0" visible="true" weight="0.6271552" />
       <window_info anchor="bottom" id="DB Execution Console" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
@@ -213,6 +219,37 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -239,7 +276,13 @@
       <map>
         <entry key="Branch">
           <value>
-            <list />
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dev" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
         <entry key="User">
@@ -250,56 +293,64 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="解决冲突" />
+    <option name="LAST_COMMIT_MESSAGE" value="解决冲突" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/module/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.txt">
+    <entry file="file://$PROJECT_DIR$/22222.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1111111111.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22222.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/env.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
+    <entry file="file://$PROJECT_DIR$/3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
